@@ -1,0 +1,14 @@
+{
+  "person": { "nama": "Orang", "deskripsi": "Manusia. Terdeteksi sebagai makhluk hidup yang berdiri, duduk, atau bergerak di dalam gambar." },
+  "bottle": { "nama": "Botol", "deskripsi": "Wadah berleher sempit untuk menyimpan cairan seperti air minum, jus, atau minyak." },
+  "cup": { "nama": "Cangkir", "deskripsi": "Wadah kecil untuk minum, biasanya dipakai untuk kopi, teh, atau air." },
+  "chair": { "nama": "Kursi", "deskripsi": "Perabot tempat duduk dengan sandaran, umumnya berkaki empat." },
+  "laptop": { "nama": "Laptop", "deskripsi": "Komputer portabel dengan layar, keyboard, dan baterai dalam satu perangkat lipat." },
+  "cell phone": { "nama": "Ponsel", "deskripsi": "Perangkat komunikasi genggam untuk telepon, pesan, dan akses internet." },
+  "book": { "nama": "Buku", "deskripsi": "Kumpulan lembaran tercetak yang dijilid, dipakai untuk membaca atau belajar." },
+  "keyboard": { "nama": "Keyboard", "deskripsi": "Perangkat input berisi tombol untuk mengetik pada komputer." },
+  "mouse": { "nama": "Mouse", "deskripsi": "Perangkat penunjuk untuk menggerakkan kursor pada layar komputer." },
+  "tv": { "nama": "Televisi", "deskripsi": "Perangkat layar untuk menampilkan siaran, video, dan film." },
+  "backpack": { "nama": "Ransel", "deskripsi": "Tas yang dipanggul di punggung untuk membawa barang bawaan." },
+  "clock": { "nama": "Jam", "deskripsi": "Alat penunjuk waktu, bisa berupa jam dinding atau jam meja." }
+}
